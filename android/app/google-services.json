@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537664978656",
+    "project_id": "taskel---todo-app",
+    "storage_bucket": "taskel---todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537664978656:android:021195d1bb356f91d0da85",
+        "android_client_info": {
+          "package_name": "com.taskel.taskel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537664978656-qi0o9ph9mo0a7d58fk9439eslnpunlfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taskel.taskel_app",
+            "certificate_hash": "93357c62d2fa375641bf340ed9495db19ea0a1ef"
+          }
+        },
+        {
+          "client_id": "537664978656-86k3fgs5hvsf51d5hapaqtkij3nao5tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQrgiNmKxkRIAMXN1wBFjd0wXA4M5JfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537664978656-4hhhg4225ad7nej2c8q713n0hp0cog7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
